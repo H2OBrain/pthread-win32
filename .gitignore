@@ -10,6 +10,8 @@ cvs
 *.suo
 *.sdf
 *.opensdf
+*.VC.VC.opendb
+*.VC.db
 
 bin/
 obj/
